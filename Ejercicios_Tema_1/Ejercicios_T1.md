@@ -8,25 +8,35 @@
 
 - Coste de amortización a cuatro años:
 
-	PVP=1179€       PVP sin IVA = 974,38€
+	PVP=1179€;      PVP sin IVA = 974,38€
 
 	Primer Año = 243,60€
+
 	Segundo Año = 243,60€
+
 	Tercer Año = 243,60€
+
 	Cuarto Año = 243,60€	
 
 
 - Coste de amortización a siete años:
 
-	PVP=1179€       PVP sin IVA = 974,38€
+	PVP=1179€;      PVP sin IVA = 974,38€
 
 	Primer año = 139.20€
+
 	Segundo año = 139.20€
+
 	Tercer año = 139.20€
+
 	Cuarto año = 139.20€
+
 	Quinto año = 139.20€
+
 	Sexto año = 139.20€
+
 	Septimo año = 139.20€
+
 
 ## EJERCICIO 2
 ### Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
