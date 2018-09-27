@@ -9,10 +9,14 @@
 ![serverplan](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/VPS_ejerc2.PNG)
 
 En esta primera imagen, referente a VPS, elegimos el plan "Entrerprise" de la empresa "ServerPlan", con un coste mensual de 99€. 
+
 - Caso donde la infraestructura se use el 1%:
-    99€ x 12 meses x 0.01 = 11.88 €/año.
+    
+	99€ x 12 meses x 0.01 = 11.88 €/año.
+
 - Caso donde la infraestructura se use el 10%:
-    99€ x 12 meses x 0.1 = 118.8 €/año.
+    
+	99€ x 12 meses x 0.1 = 118.8 €/año.
 
 ![axarnet](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/Cloud_ejerc2.PNG)
 
