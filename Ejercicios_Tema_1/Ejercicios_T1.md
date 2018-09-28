@@ -71,7 +71,7 @@ En la imagen anterior se muestra el plan elegido para "Cloud". He seleccionado e
 - MODELO PROCESADOR: Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz
 - SALIDA COMANDO: egrep '^flags.*(vmx|svm)' /proc/cpuinfo
 
-![salida] (https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/salidadE3.png)
+![salida](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/salidadE3.png)
 
 ## EJERCICIO 4
 ### 1.Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
