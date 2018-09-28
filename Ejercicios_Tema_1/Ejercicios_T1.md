@@ -100,3 +100,7 @@ Ya que soy usuario de Microsoft, no he necesitado darme de alta en Azure, aunque
 
 ## EJERCICIO 6
 ### Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
+
+En el "Hackatón" sobre diseño dirigido por test de microservicios, JJ aconsejó "OpenStack" como sistema de gestión, asi que nos vamos a registrar en dicho sistema. 
+
+![openstack](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/openstack.png?raw=true)
