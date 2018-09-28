@@ -75,6 +75,12 @@ En la imagen anterior se muestra el plan elegido para "Cloud". He seleccionado e
 
 ## EJERCICIO 4
 ### 1.Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
+
+Si, lo tiene.
+
+![salidaE4](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/salidaE4_1.png)
+
+
 ### 2.Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 
 ## EJERCICIO 5
