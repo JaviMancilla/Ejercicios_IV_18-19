@@ -18,6 +18,8 @@
 
 	Cuarto Año = 243,60€	
 
+	974,38 x 0.26 = 253,34€
+
 
 - Coste de amortización a siete años:
 
@@ -37,11 +39,13 @@
 
 	Septimo año = 139.20€
 
+	974,38 x 0.26 = 253,34€
+
 
 ## EJERCICIO 2
 ### Usando las tablas de precios de servicios de alojamiento en Internet “clásicos”, es decir, que ofrezcan Virtual Private Servers o servidores físicos, y de proveedores de servicios en la nube, comparar el coste durante un año de un ordenador con un procesador estándar (escogerlo de forma que sea el mismo tipo de procesador en los dos vendedores) y con el resto de las características similares (tamaño de disco duro equivalente a transferencia de disco duro) en el caso de que la infraestructura comprada se usa sólo el 1% o el 10% del tiempo.
 
-![serverplan](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/VPS_ejerc2.PNG)
+![serverplan](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/VPS_ejerc2.PNG?raw=true)
 
 En esta primera imagen, referente a VPS, elegimos el plan "Entrerprise" de la empresa "ServerPlan", con un coste mensual de 99€. 
 
@@ -53,7 +57,7 @@ En esta primera imagen, referente a VPS, elegimos el plan "Entrerprise" de la em
     
 	99€ x 12 meses x 0.1 = 118.8 €/año.
 
-![axarnet](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/Cloud_ejerc2.PNG)
+![axarnet](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/Cloud_ejerc2.PNG?raw=true)
 
 En la imagen anterior se muestra el plan elegido para "Cloud". He seleccionado el plan nombrado como "Servidor Claud XL", con un coste mensual de 39.98€, de la empresa "Axarnet", el cual es bastante similar al plan de VPS visto antes.
 - Caso donde la infraestructura se use el 1%:
@@ -71,20 +75,28 @@ En la imagen anterior se muestra el plan elegido para "Cloud". He seleccionado e
 - MODELO PROCESADOR: Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz
 - SALIDA COMANDO: ``egrep '^flags.*(vmx|svm)' /proc/cpuinfo``
 
-![salida](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/salidadE3.png)
+![salida](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/salidadE3.png?raw=true)
 
 ## EJERCICIO 4
 ### 1.Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden kvm-ok.
 
 Si, lo tiene.
 
-![salidaE4](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/salidaE4_1.png)
+![salidaE4](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/salidaE4_1.png?raw=true)
 
 
 ### 2.Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
 
+En mi caso tengo instalado VirtualBox.
+
+![VBox](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/salidaE4_2.png?raw=true)
+
 ## EJERCICIO 5
 ### Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
+
+Ya que soy usuario de Microsoft, no he necesitado darme de alta en Azure, aunque por otro lado me ha pedido que rellene algunos datos personales para completar mi registro. Esta licencia es una licencia gratutia de 12 meses. 
+
+![azure](https://github.com/JaviMancilla/Ejercicios_IV_18-19/blob/master/Ejercicios_Tema_1/Imagenes_T1/azure.png?raw=true)
 
 ## EJERCICIO 6
 ### Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
